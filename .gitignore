@@ -172,3 +172,7 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+# NuGet packages
+*.nupkg
+*.nupkg.zip
